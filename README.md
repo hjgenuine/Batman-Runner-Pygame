@@ -8,7 +8,7 @@ This Batman Runner 2D Game was created using Pygame Library of Python.
 #2 InGame Screen 1 (Press Space to Jump)
 ![inGame_1](https://user-images.githubusercontent.com/64316945/176818967-9e75be2d-99e3-4f28-9684-e96c04a765d8.PNG)
 
-#3 InGame Screen 2 (Batman Logo is a Powerup)
+#3 InGame Screen 2 (Batman Logo is a Powerup, and allows you to jump higher and fall slowly)
 ![inGame_2](https://user-images.githubusercontent.com/64316945/176818970-3f8f0f69-e2f3-4bfc-8ad5-da555b40d60e.PNG)
 
 #4 Ending Screen
